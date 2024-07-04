@@ -1,2 +1,2 @@
 # India-1
-India Repo
+India Repo telugu skill hub
